@@ -24,7 +24,7 @@ issue types are e.g.:
 - metadata
 - web service
 - API's
-or
+<br>or
 - data content
 - level of detail
 - data structure
