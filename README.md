@@ -1,7 +1,6 @@
 # issues-barriers
-A series of recommendations will be formulated based on the experience gained in activities 1 through 3. 
-The recommendations will be presented to and discussed with stakeholders and the broader open data community 
-with the aim of presenting both the recommendations and feedback in a report.
+This repository gathers issues and barriers faced during the data collection, data harmonisation and data publication processes. These will be used to formulate a series of recommendations (based on the experience gained in project activities 1 through 3) that will be presented to and discussed with stakeholders and the broader open data community.
+Both the recommendations and feedback will be duly documented in a report.
 # issues-labeling
 [usecase-abbreviation]-[issue class]-[type of issue]
 
