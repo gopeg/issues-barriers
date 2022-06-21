@@ -1,40 +1,43 @@
-# issues-barriers
-This repository gathers issues and barriers faced during the data collection, data harmonisation and data publication processes. These will be used to formulate a series of recommendations (based on the experience gained in project activities 1 through 3) that will be presented to and discussed with stakeholders and the broader open data community.
+# Issues and barriers of the GO-PEG use cases
+This repository gathers issues faced and barriers encountered during the processes of data collection, data harmonisation and data publication of the GO-PEG data sets. 
+
+Collected information will be used to formulate a series of recommendations (based on the experience gained in project activities 1 through 3) that will be presented to and discussed with the stakeholders and the broader open data community. 
+
 Both the recommendations and feedback will be duly documented in a report.
 
-Use the issue tracker to report any problem faced with:
-- data harmonisation (publishing on portals, metadata and web services / API’s)
-- deployment (data content, level of detail, data structure, vocabularies and license conditions)
-- usability (To what extend do the new data sets and access services meet the user needs?)
-- business model
+Use the issue tracker to report problem faced with:
+- data harmonisation (e.g., data models development, vocabularies, source data content, data transformation tools)
+- service deployment (setup of web services / APIs for the data sharing)
+- data and/or metadata publication 
+- license conditions 
+- data usability (To what extend do the new data sets and access services can be used in mainstream tools / to what extent do they meet the user needs?)
 
 
-# issues-labeling
-[usecase-abbreviation]-[issue class]-[type of issue]
+# How to report an issue:
+The issue title shall follow the encoding:
 
-use cases:
-- fairport
-- godepth
-- popimpact
-- popwildfire
-- ...
+[use case name][brief description of the problem] 
 
-issue classes:
-- data harmonisation (publishing on portals, metadata and web services / API’s)
-- deployment (data content, level of detail, data structure, vocabularies and license conditions)
-- usability (To what extend do the new data sets and access services meet the user needs?)
-- business model
-Please contact Anders if you have the feeling that an issue class is missing.
+e.g., 
 
-issue types are e.g.:
-- portal
-- metadata
-- web service
-- API's
-<br>or
-- data content
-- level of detail
-- data structure
-- vocabularies
+Title = GO-DEPTH code lists not available for subsurface data 
+
+
+Use the labels from drop down menu to further categorise the issue and allow querying the repository content
+
+At least one **issue categories labels**  must be provided !
+
+**issue categories labels**
+- data harmonisation 
+- service deployment 
+- data publication
+- metadata publication
+- license conditions 
+- data usability
+- data collection
+
+**Optional Labels**:
+- APIs
+- data model
+- vocabularies / semantics
 - license conditions
--
