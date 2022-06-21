@@ -10,7 +10,7 @@ Use the issue tracker to report problem faced with:
 - service deployment (setup of web services / APIs for the data sharing)
 - data and/or metadata publication 
 - license conditions 
-- data usability (To what extend do the new data sets and access services can be used in mainstream tools / to what extent do they meet the user needs?)
+- data usability (to what extent can the new data sets and services be used in mainstream tools / to what extent do they meet the user needs?)
 
 
 # How to report an issue:
