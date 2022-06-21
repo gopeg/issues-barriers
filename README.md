@@ -41,3 +41,9 @@ At least one issue category label must be provided!
 - data model
 - vocabularies / semantics
 - license conditions
+
+# How to document solutions
+
+Solutions tried shall be posted as comments to the issues.
+Once the issue is successfully solved, and the solution duly described, the issue is closed
+
