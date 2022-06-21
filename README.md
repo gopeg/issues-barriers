@@ -16,11 +16,11 @@ Use the issue tracker to report problem faced with:
 # How to report an issue:
 The issue title shall follow the encoding:
 
-[use case name][brief description of the problem] 
+[use case name]__[brief description of the problem] 
 
 e.g., 
 
-Title = GO-DEPTH code lists not available for subsurface data 
+*Title* = GO-DEPTH_code lists not available for subsurface data 
 
 
 Use the labels from drop down menu to further categorise the issue and allow querying the repository content
