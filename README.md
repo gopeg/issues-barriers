@@ -25,9 +25,9 @@ Title = GO-DEPTH code lists not available for subsurface data
 
 Use the labels from drop down menu to further categorise the issue and allow querying the repository content
 
-At least one **issue categories labels**  must be provided !
+At least one issue category label must be provided!
 
-**issue categories labels**
+**Issue Category Labels**
 - data harmonisation 
 - service deployment 
 - data publication
