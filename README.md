@@ -13,7 +13,7 @@ Use the issue tracker to report problem faced with:
 - data usability (to what extent can the new data sets and services be used in mainstream tools / to what extent do they meet the user needs?)
 
 
-# How to report an issue:
+# How to report an issue
 The issue title shall follow the encoding:
 
 [use case name]__[brief description of the problem] 
@@ -45,5 +45,5 @@ At least one issue category label must be provided!
 # How to document solutions
 
 Solutions tried shall be posted as comments to the issues.
-Once the issue is successfully solved, and the solution duly described, the issue is closed
+Once the issue is successfully solved, and the solution duly described, the issue shall be closed
 
