@@ -35,7 +35,7 @@ At least one issue category label must be provided!
 - license conditions 
 - data usability
 - data collection
-- stakeholder involvment
+- stakeholder involvement
 
 **Optional Labels**:
 - APIs
